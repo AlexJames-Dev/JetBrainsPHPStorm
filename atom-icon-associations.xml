@@ -12,5 +12,17 @@
         </option>
       </CustomAssociations>
     </option>
+    <option name="customFolderAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value="^voyager$" />
+            <option name="pattern" value="^voyager$" />
+            <option name="name" value="Voyager" />
+            <option name="icon" value="$USER_HOME$/Devspace/Icons/Material Icons/icons/folder-admin.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
   </component>
 </application>
