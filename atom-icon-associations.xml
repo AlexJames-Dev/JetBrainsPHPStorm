@@ -1,0 +1,28 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFileAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value=".*\.blade(\.php)?$" />
+            <option name="pattern" value=".*\.blade(\.php)?$" />
+            <option name="name" value="Blade" />
+            <option name="icon" value="$USER_HOME$/Devspace/Icons/Material Icons/icons/laravel.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+    <option name="customFolderAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value="^voyager$" />
+            <option name="pattern" value="^voyager$" />
+            <option name="name" value="Voyager" />
+            <option name="icon" value="$USER_HOME$/Devspace/Icons/Material Icons/icons/folder-admin.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>
