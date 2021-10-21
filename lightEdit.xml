@@ -2,8 +2,11 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file:///Component.php" />
+        <option value="file://$USER_HOME$/.COVolumes/_arrangemy/public_html/wp-content/themes/arrangemy/header.php" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="20" y="45" width="1400" height="765" />
     </option>
   </component>
 </application>
